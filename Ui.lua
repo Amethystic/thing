@@ -79,7 +79,7 @@ local drag = function(obj, latency)
 end
 
 local library = {
-    version = "0",
+    version = "6",
     title = title or "faggotware... " .. tostring(math.random(1,366)),
     fps = 0,
     rank = ""
